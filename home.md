@@ -5,4 +5,6 @@
 3. Web Frameworks
     * HTML5
     * CSS3
+    * ES6
     * Vue.js
+    
